@@ -1,0 +1,59 @@
+Class,Increases Likes,Posts Count,Clustering Size 2,Clustering Size 3,Clustering Size 4,Clustering Size 2 Posts Count,Clustering Size 3 Posts Count,Clustering Size 4 Posts Count
+Baseball cap,False,52,0,0,0,815,748,596
+City,False,54,0,0,0,815,748,596
+Jacket,False,28,0,0,0,815,748,596
+Jeans,False,41,0,0,0,815,748,596
+Motorcycling,False,6,0,0,0,815,748,596
+Public space,False,28,0,0,0,815,748,596
+T-shirt,False,145,0,0,0,815,748,596
+Blue,True,14,0,0,0,815,748,596
+Chin,True,34,0,0,0,815,748,596
+Entertainment,True,67,0,0,0,815,748,596
+Eyebrow,True,20,0,0,0,815,748,596
+Font,True,119,0,0,0,815,748,596
+Happy,True,51,0,0,0,815,748,596
+Human,True,31,0,0,0,815,748,596
+Jaw,True,38,0,0,0,815,748,596
+Muscle,True,22,0,0,0,815,748,596
+Nose,True,21,0,0,0,815,748,596
+Public speaking,True,9,0,0,0,815,748,596
+Sleeve,True,69,0,0,0,815,748,596
+Smile,True,73,0,0,0,815,748,596
+Table,True,34,0,0,0,815,748,596
+Television presenter,True,14,0,0,0,815,748,596
+Television program,True,10,0,0,0,815,748,596
+Thumb,True,8,0,0,0,815,748,596
+World,True,58,0,0,0,815,748,596
+Automotive lighting,False,27,0,0,1,815,748,422
+Car,False,43,0,0,1,815,748,422
+Crowd,False,229,0,0,1,815,748,422
+Infrastructure,False,30,0,0,1,815,748,422
+Land vehicle,False,23,0,0,1,815,748,422
+Mode of transport,False,14,0,0,1,815,748,422
+Motorcycle helmet,False,14,0,0,1,815,748,422
+Plant,False,103,0,0,1,815,748,422
+Street light,False,19,0,0,1,815,748,422
+Thoroughfare,False,18,0,0,1,815,748,422
+Blazer,True,73,0,2,2,815,495,495
+Coat,True,75,0,2,2,815,495,495
+Collar,True,80,0,2,2,815,495,495
+Dress shirt,True,72,0,2,2,815,495,495
+Forehead,True,77,0,2,2,815,495,495
+Gesture,True,156,0,2,2,815,495,495
+Joy,True,310,0,2,2,815,495,495
+Microphone,True,85,0,2,2,815,495,495
+Spokesperson,True,66,0,2,2,815,495,495
+Suit,True,136,0,2,2,815,495,495
+Tie,True,128,0,2,2,815,495,495
+Asphalt,False,61,1,1,1,467,467,422
+Cloud,False,117,1,1,1,467,467,422
+Helmet,False,49,1,1,1,467,467,422
+Motorcycle,False,43,1,1,1,467,467,422
+Tree,False,141,1,1,1,467,467,422
+Automotive tire,False,66,1,1,3,467,467,454
+Hat,False,325,1,1,3,467,467,454
+Motor vehicle,False,155,1,1,3,467,467,454
+Sky,False,231,1,1,3,467,467,454
+Tire,False,94,1,1,3,467,467,454
+Vehicle,False,111,1,1,3,467,467,454
+Wheel,False,79,1,1,3,467,467,454

@@ -1,0 +1,31 @@
+Class,Increases Likes,Posts Count,Clustering Size 2,Clustering Size 4,Clustering Size 5,Clustering Size 2 Posts Count,Clustering Size 4 Posts Count,Clustering Size 5 Posts Count
+Font,False,732,0,0,0,1583,767,767
+Event,True,578,0,2,2,1583,763,763
+Joy,True,1021,0,3,3,1583,1328,1328
+Person,True,928,0,3,3,1583,1328,1328
+Smile,True,575,0,3,3,1583,1328,1328
+Advertising,False,51,1,0,0,1214,767,767
+Poster,False,222,1,0,0,1214,767,767
+Publication,False,172,1,0,0,1214,767,767
+Material property,False,7,1,1,1,1214,847,679
+Parallel,False,3,1,1,1,1214,847,679
+Blue,True,104,1,1,1,1214,847,679
+Building,True,31,1,1,1,1214,847,679
+City,True,37,1,1,1,1214,847,679
+Coat,True,170,1,1,1,1214,847,679
+Daytime,True,15,1,1,1,1214,847,679
+Face,True,41,1,1,1,1214,847,679
+Flag,True,76,1,1,1,1214,847,679
+Fun,True,133,1,1,1,1214,847,679
+Lighting,True,20,1,1,1,1214,847,679
+Muscle,True,44,1,1,1,1214,847,679
+Neck,True,9,1,1,1,1214,847,679
+Outerwear,True,86,1,1,1,1214,847,679
+Red,True,94,1,1,1,1214,847,679
+Sky,True,111,1,1,1,1214,847,679
+Cheek,True,28,1,1,4,1214,847,239
+Forehead,True,232,1,1,4,1214,847,239
+Skin,True,36,1,1,4,1214,847,239
+Crowd,True,261,1,2,2,1214,763,763
+Fan,True,228,1,2,2,1214,763,763
+World,True,247,1,2,2,1214,763,763

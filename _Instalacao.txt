@@ -1,0 +1,33 @@
+comentei o ipython==8.19.0
+
+Configurar as dependencias no Spyder:
+
+pip install -r "caminho completo até o"\requirements.txt
+
+
+---
+
+Com o Anacoda
+
+
+1. Crie o ambiente
+
+conda create -n socialnet python=3.10
+conda activate socialnet
+pip install -r requirements.txt
+
+
+2. Configurar o Spyder
+
+- No Spyder, escolha esta opção no menu: Tools -> Preferences
+
+- Clique na opção "Pyhton interpreter" no lado esquerda
+
+- No subpainel "Python Interpreter", clique em "Use the following Python interpreter"
+
+- Escolha o caminho para o "python.exe" do seu novo ambiente
+  . geralmente fica na pasta "\ProgramData\anaconda3\envs\socialnet" 
+  . ou na pasta "\Users\<seu usuario\.conda\envs\socialnet"
+
+- Clique em "Ok" ou "Apply"
+

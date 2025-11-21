@@ -1,0 +1,46 @@
+Class,Increases Likes,Posts Count,Clustering Size 4,Clustering Size 5,Clustering Size 2,Clustering Size 4 Posts Count,Clustering Size 5 Posts Count,Clustering Size 2 Posts Count
+Hat,False,792,0,0,0,923,923,923
+Motor vehicle,False,226,0,0,0,923,923,923
+Motorcycle,False,46,0,0,0,923,923,923
+Tire,False,104,0,0,0,923,923,923
+Vehicle,False,146,0,0,0,923,923,923
+Wheel,False,90,0,0,0,923,923,923
+Advertising,False,55,1,1,1,1446,913,2288
+Jeans,False,81,1,1,1,1446,913,2288
+Photo caption,False,17,1,1,1,1446,913,2288
+Bookcase,True,28,1,1,1,1446,913,2288
+Display device,True,55,1,1,1,1446,913,2288
+Electronic device,True,65,1,1,1,1446,913,2288
+Eyewear,True,93,1,1,1,1446,913,2288
+Formal wear,True,107,1,1,1,1446,913,2288
+Furniture,True,29,1,1,1,1446,913,2288
+Lighting,True,35,1,1,1,1446,913,2288
+Muscle,True,88,1,1,1,1446,913,2288
+Neck,True,24,1,1,1,1446,913,2288
+Official,True,26,1,1,1,1446,913,2288
+Pants,True,119,1,1,1,1446,913,2288
+Screenshot,True,78,1,1,1,1446,913,2288
+Table,True,79,1,1,1,1446,913,2288
+Television presenter,True,43,1,1,1,1446,913,2288
+Television program,True,33,1,1,1,1446,913,2288
+Terrestrial plant,True,68,1,1,1,1446,913,2288
+White-collar worker,True,73,1,1,1,1446,913,2288
+Happy,False,473,1,4,1,1446,1339,2288
+Poster,False,233,1,4,1,1446,1339,2288
+Publication,False,206,1,4,1,1446,1339,2288
+Beard,False,248,2,2,1,629,629,2288
+Cheek,True,44,2,2,1,629,629,2288
+Chin,True,267,2,2,1,629,629,2288
+Eyebrow,True,112,2,2,1,629,629,2288
+Forehead,True,407,2,2,1,629,629,2288
+Jaw,True,133,2,2,1,629,629,2288
+Nose,True,113,2,2,1,629,629,2288
+Skin,True,45,2,2,1,629,629,2288
+Blazer,True,314,3,3,1,1751,1067,2288
+Coat,True,288,3,3,1,1751,1067,2288
+Collar,True,287,3,3,1,1751,1067,2288
+Dress shirt,True,276,3,3,1,1751,1067,2288
+Sleeve,True,388,3,3,1,1751,1067,2288
+Spokesperson,True,280,3,3,1,1751,1067,2288
+Tie,True,495,3,3,1,1751,1067,2288
+Font,False,1032,3,4,1,1751,1339,2288

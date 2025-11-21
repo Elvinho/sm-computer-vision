@@ -1,0 +1,16 @@
+,Cluster 1,Cluster 2,P-Value - ts,P-Value - greater,P-Value - less,Classification
+0,Fotos em close - Lula,"Propagandas, com imagens editadas",2.2949853816076564e-13,1.1474926908038282e-13,0.9999999999998854,greater
+1,Fotos em close - Lula,Generico (sem padrao),0.022655709505612777,0.011327854752806388,0.9886755137961294,none
+2,Fotos em close - Lula,Eventos com aglomeracoes,0.6962276008762651,0.34811380043813256,0.6519521140286115,none
+3,Fotos em close - Lula,Propaganda textual,5.431689390643314e-07,2.715844695321657e-07,0.9999997303006499,greater
+4,Fotos em close - Lula,Fotos em close (com ou sem lula),0.008073968762566578,0.004036984381283289,0.9959703477920651,greater
+5,"Propagandas, com imagens editadas",Generico (sem padrao),1.7895344708333495e-14,0.999999999999991,8.947672354166748e-15,less
+6,"Propagandas, com imagens editadas",Eventos com aglomeracoes,1.1431295906446295e-20,1.0,5.7156479532231475e-21,less
+7,"Propagandas, com imagens editadas",Propaganda textual,0.002425017194103521,0.0012125085970517604,0.9987894219942003,greater
+8,"Propagandas, com imagens editadas",Fotos em close (com ou sem lula),0.1493250057229552,0.9253709223487886,0.0746625028614776,none
+9,Generico (sem padrao),Eventos com aglomeracoes,0.011031119338448754,0.9944855200024356,0.005515559669224377,none
+10,Generico (sem padrao),Propaganda textual,5.874437225850679e-06,2.9372186129253396e-06,0.9999970680315294,greater
+11,Generico (sem padrao),Fotos em close (com ou sem lula),0.12769775608660167,0.06384887804330083,0.9361746355242782,none
+12,Eventos com aglomeracoes,Propaganda textual,3.3721797218128633e-07,1.6860898609064317e-07,0.9999998319512489,greater
+13,Eventos com aglomeracoes,Fotos em close (com ou sem lula),0.010983444911583859,0.0054917224557919295,0.9945130872920387,none
+14,Propaganda textual,Fotos em close (com ou sem lula),0.003984737470275875,0.9980266084063617,0.0019923687351379375,less

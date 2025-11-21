@@ -1,0 +1,35 @@
+Class,Increases Likes,Posts Count,Clustering Size 10,Clustering Size 3,Clustering Size 8,Clustering Size 10 Posts Count,Clustering Size 3 Posts Count,Clustering Size 8 Posts Count
+Bracelet,False,3,0,0,0,49,746,314
+Natural environment,False,18,0,0,0,49,746,314
+Natural landscape,False,15,0,0,0,49,746,314
+Motorcycle,True,2,0,0,0,49,746,314
+Official,True,13,0,0,0,49,746,314
+Tripod,True,2,0,0,0,49,746,314
+Blue,False,66,8,0,0,234,746,314
+Community,False,52,8,0,0,234,746,314
+Product,False,143,8,0,0,234,746,314
+Social group,False,28,8,0,0,234,746,314
+Youth,False,9,8,0,0,234,746,314
+Finger,True,24,9,0,0,40,746,314
+Thumb,True,31,9,0,0,40,746,314
+Eyebrow,True,59,3,0,3,226,746,226
+Nose,True,50,3,0,3,226,746,226
+Skin,True,26,3,0,3,226,746,226
+Book,False,15,4,0,4,97,746,97
+Poster,False,52,4,0,4,97,746,97
+Publication,False,67,4,0,4,97,746,97
+Font,False,365,5,0,5,479,746,479
+Happy,False,176,5,0,5,479,746,479
+Glove,True,4,6,0,6,4,746,4
+Motorcycle helmet,True,1,6,0,6,4,746,4
+Television presenter,True,20,7,0,7,25,746,25
+Television program,True,18,7,0,7,25,746,25
+Blazer,True,133,1,1,1,319,419,319
+Collar,True,139,1,1,1,319,419,319
+Dress shirt,True,132,1,1,1,319,419,319
+Spokesperson,True,106,1,1,1,319,419,319
+Tie,True,206,1,1,1,319,419,319
+Chin,True,131,3,1,3,226,419,226
+Forehead,True,184,3,1,3,226,419,226
+Joy,False,570,2,2,2,578,578,578
+Smile,False,304,2,2,2,578,578,578

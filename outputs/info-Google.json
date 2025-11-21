@@ -1,0 +1,92 @@
+{
+  "facebook-lula": {
+    "Quantidade de IDs inicialmente": 1142,
+    "Quantidade de labels inicialmente": 14333,
+    "Quantas labels unicas tinha": 586,
+    "Primeiro quartil": "de 0 a 0.72",
+    "Primeiro quartil depois do filtro": "de 0 a 0.78",
+    "Quantas labels unicas restaram": 465,
+    "Quantidade de labels depois": 10874,
+    "Quantidade de Ids depois": 1142
+  },
+  "instagram-lula": {
+    "Quantidade de IDs inicialmente": 525,
+    "Quantidade de labels inicialmente": 6800,
+    "Quantas labels unicas tinha": 436,
+    "Primeiro quartil": "de 0 a 0.74",
+    "Primeiro quartil depois do filtro": "de 0 a 0.8",
+    "Quantas labels unicas restaram": 348,
+    "Quantidade de labels depois": 5255,
+    "Quantidade de Ids depois": 525
+  },
+  "facebook-bolsonaro": {
+    "Quantidade de IDs inicialmente": 845,
+    "Quantidade de labels inicialmente": 10713,
+    "Quantas labels unicas tinha": 603,
+    "Primeiro quartil": "de 0 a 0.74",
+    "Primeiro quartil depois do filtro": "de 0 a 0.79",
+    "Quantas labels unicas restaram": 487,
+    "Quantidade de labels depois": 8258,
+    "Quantidade de Ids depois": 845
+  },
+  "instagram-bolsonaro": {
+    "Quantidade de IDs inicialmente": 507,
+    "Quantidade de labels inicialmente": 6406,
+    "Quantas labels unicas tinha": 552,
+    "Primeiro quartil": "de 0 a 0.72",
+    "Primeiro quartil depois do filtro": "de 0 a 0.78",
+    "Quantas labels unicas restaram": 440,
+    "Quantidade de labels depois": 4825,
+    "Quantidade de Ids depois": 507
+  },
+  "full": {
+    "Quantidade de IDs inicialmente": 3019,
+    "Quantidade de labels inicialmente": 38252,
+    "Quantas labels unicas tinha": 890,
+    "Primeiro quartil": "de 0 a 0.73",
+    "Primeiro quartil depois do filtro": "de 0 a 0.79",
+    "Quantas labels unicas restaram": 715,
+    "Quantidade de labels depois": 29152,
+    "Quantidade de Ids depois": 3019
+  },
+  "lula": {
+    "Quantidade de IDs inicialmente": 1667,
+    "Quantidade de labels inicialmente": 21133,
+    "Quantas labels unicas tinha": 641,
+    "Primeiro quartil": "de 0 a 0.73",
+    "Primeiro quartil depois do filtro": "de 0 a 0.79",
+    "Quantas labels unicas restaram": 501,
+    "Quantidade de labels depois": 15955,
+    "Quantidade de Ids depois": 1667
+  },
+  "bolsonaro": {
+    "Quantidade de IDs inicialmente": 1352,
+    "Quantidade de labels inicialmente": 17119,
+    "Quantas labels unicas tinha": 718,
+    "Primeiro quartil": "de 0 a 0.73",
+    "Primeiro quartil depois do filtro": "de 0 a 0.78",
+    "Quantas labels unicas restaram": 571,
+    "Quantidade de labels depois": 13197,
+    "Quantidade de Ids depois": 1352
+  },
+  "facebook": {
+    "Quantidade de IDs inicialmente": 1987,
+    "Quantidade de labels inicialmente": 25046,
+    "Quantas labels unicas tinha": 790,
+    "Primeiro quartil": "de 0 a 0.73",
+    "Primeiro quartil depois do filtro": "de 0 a 0.78",
+    "Quantas labels unicas restaram": 636,
+    "Quantidade de labels depois": 19072,
+    "Quantidade de Ids depois": 1987
+  },
+  "instagram": {
+    "Quantidade de IDs inicialmente": 1032,
+    "Quantidade de labels inicialmente": 13206,
+    "Quantas labels unicas tinha": 664,
+    "Primeiro quartil": "de 0 a 0.73",
+    "Primeiro quartil depois do filtro": "de 0 a 0.79",
+    "Quantas labels unicas restaram": 530,
+    "Quantidade de labels depois": 10080,
+    "Quantidade de Ids depois": 1032
+  }
+}

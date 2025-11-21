@@ -1,0 +1,7 @@
+,Cluster 1,Cluster 2,P-Value - ts,P-Value - greater,P-Value - less,Classification
+0,Foto em close,Eventos externos com publico,2.4921187296370784e-13,1.2460593648185392e-13,0.9999999999998754,greater
+1,Foto em close,Ambiente interno/escritorio,0.00022739560013385418,0.00011369780006692709,0.9998864728598149,greater
+2,Foto em close,Motociatas,1.1486170992506293e-15,5.743085496253147e-16,0.9999999999999994,greater
+3,Eventos externos com publico,Ambiente interno/escritorio,0.17581423206290614,0.08790711603145307,0.9121742500758856,none
+4,Eventos externos com publico,Motociatas,0.00035474660123167016,0.00017737330061583508,0.9998227851577123,greater
+5,Ambiente interno/escritorio,Motociatas,0.8766389205731169,0.43831946028655844,0.5622745155939823,none

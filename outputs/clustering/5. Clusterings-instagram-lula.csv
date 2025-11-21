@@ -1,0 +1,16 @@
+Class,Increases Likes,Posts Count,Clustering Size 5,Clustering Size 6,Clustering Size 7,Clustering Size 5 Posts Count,Clustering Size 6 Posts Count,Clustering Size 7 Posts Count
+Natural environment,False,11,0,0,0,17,17,17
+Youth,False,7,0,0,0,17,17,17
+Chin,True,60,1,1,1,73,73,73
+Eyebrow,True,20,1,1,1,73,73,73
+Nose,True,22,1,1,1,73,73,73
+Skin,True,19,1,1,1,73,73,73
+City,True,11,2,2,2,18,18,18
+Daytime,True,9,2,2,2,18,18,18
+Skyscraper,True,1,2,2,2,18,18,18
+Font,False,184,3,3,3,227,227,195
+Publication,False,51,3,3,3,227,227,195
+Blazer,True,57,3,3,6,227,227,57
+Finger,True,16,4,4,4,143,26,26
+Thumb,True,20,4,4,4,143,26,26
+Happy,False,128,4,5,5,143,128,128

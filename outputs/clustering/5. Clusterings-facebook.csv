@@ -1,0 +1,74 @@
+Class,Increases Likes,Posts Count,Clustering Size 2,Clustering Size 6,Clustering Size 5,Clustering Size 2 Posts Count,Clustering Size 6 Posts Count,Clustering Size 5 Posts Count
+Advertising,False,47,0,0,0,1818,1256,1630
+Art,False,24,0,0,0,1818,1256,1630
+Beard,False,161,0,0,0,1818,1256,1630
+Facial expression,False,100,0,0,0,1818,1256,1630
+Facial hair,False,49,0,0,0,1818,1256,1630
+Finger,False,34,0,0,0,1818,1256,1630
+Hair,False,42,0,0,0,1818,1256,1630
+Hairstyle,False,26,0,0,0,1818,1256,1630
+Hand,False,57,0,0,0,1818,1256,1630
+Poster,False,181,0,0,0,1818,1256,1630
+Publication,False,139,0,0,0,1818,1256,1630
+Thumb,False,40,0,0,0,1818,1256,1630
+Thumbs signal,False,4,0,0,0,1818,1256,1630
+Violet,False,6,0,0,0,1818,1256,1630
+Bookcase,True,12,0,0,0,1818,1256,1630
+Building,True,70,0,0,0,1818,1256,1630
+Camera,True,17,0,0,0,1818,1256,1630
+Chair,True,84,0,0,0,1818,1256,1630
+City,True,80,0,0,0,1818,1256,1630
+Curtain,True,15,0,0,0,1818,1256,1630
+Flag,True,69,0,0,0,1818,1256,1630
+Furniture,True,19,0,0,0,1818,1256,1630
+Lighting,True,19,0,0,0,1818,1256,1630
+Muscle,True,44,0,0,0,1818,1256,1630
+Neck,True,11,0,0,0,1818,1256,1630
+Non-commissioned officer,True,6,0,0,0,1818,1256,1630
+Pants,True,79,0,0,0,1818,1256,1630
+Plant,True,147,0,0,0,1818,1256,1630
+Recreation,True,89,0,0,0,1818,1256,1630
+Screenshot,True,25,0,0,0,1818,1256,1630
+Security,True,8,0,0,0,1818,1256,1630
+Shelving,True,12,0,0,0,1818,1256,1630
+Suit trousers,True,8,0,0,0,1818,1256,1630
+Table top,True,8,0,0,0,1818,1256,1630
+Television presenter,True,23,0,0,0,1818,1256,1630
+Television program,True,15,0,0,0,1818,1256,1630
+Terrestrial plant,True,29,0,0,0,1818,1256,1630
+Top,True,108,0,0,0,1818,1256,1630
+Trousers,True,53,0,0,0,1818,1256,1630
+White-collar worker,True,42,0,0,0,1818,1256,1630
+Yellow,True,49,0,0,0,1818,1256,1630
+Product,False,256,0,1,0,1818,1211,1630
+Exposed,True,170,0,1,0,1818,1211,1630
+Motor vehicle,True,190,0,1,0,1818,1211,1630
+Coat,True,180,0,3,0,1818,588,1630
+Collar,True,148,0,3,0,1818,588,1630
+Dress shirt,True,144,0,3,0,1818,588,1630
+Formal wear,True,58,0,3,0,1818,588,1630
+Spokesperson,True,174,0,3,0,1818,588,1630
+Blurred,True,338,0,1,1,1818,1211,1083
+Crowd,True,396,0,1,1,1818,1211,1083
+Fan,True,289,0,1,1,1818,1211,1083
+Fun,True,169,0,1,1,1818,1211,1083
+Leisure,True,313,0,1,1,1818,1211,1083
+Sky,True,300,0,1,1,1818,1211,1083
+T-shirt,True,266,0,1,1,1818,1211,1083
+Tree,True,170,0,1,1,1818,1211,1083
+Cuisine,False,5,0,2,2,1818,56,56
+Food,False,3,0,2,2,1818,56,56
+Ingredient,False,5,0,2,2,1818,56,56
+Plate,False,4,0,2,2,1818,56,56
+Recipe,False,6,0,2,2,1818,56,56
+Table,True,51,0,2,2,1818,56,56
+Suit,True,297,0,3,3,1818,588,1323
+Tie,True,289,0,3,3,1818,588,1323
+Happy,False,297,0,5,3,1818,1161,1323
+Hat,True,587,1,1,1,1866,1211,1083
+Font,False,667,1,5,3,1866,1161,1323
+Gesture,False,539,1,5,3,1866,1161,1323
+Smile,False,421,1,5,3,1866,1161,1323
+Joy,False,978,1,4,4,1866,1652,1652
+Event,True,741,1,4,4,1866,1652,1652
+Person,True,1123,1,4,4,1866,1652,1652

@@ -1,0 +1,10 @@
+Class,Increases Likes,Posts Count,Clustering Size 4,Clustering Size 2,Clustering Size 3,Clustering Size 4 Posts Count,Clustering Size 2 Posts Count,Clustering Size 3 Posts Count
+Blazer,True,58,0,0,0,147,147,147
+Collar,True,54,0,0,0,147,147,147
+Tie,True,122,0,0,0,147,147,147
+Art,False,8,1,1,1,194,240,194
+Font,False,176,1,1,1,194,240,194
+Publication,False,31,1,1,1,194,240,194
+Fan,False,36,2,1,2,44,240,60
+Red,False,13,2,1,2,44,240,60
+Hand,True,16,3,1,2,16,240,60

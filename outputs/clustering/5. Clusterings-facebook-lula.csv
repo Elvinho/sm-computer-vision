@@ -1,0 +1,39 @@
+Class,Increases Likes,Posts Count,Clustering Size 2,Clustering Size 10,Clustering Size 9,Clustering Size 2 Posts Count,Clustering Size 10 Posts Count,Clustering Size 9 Posts Count
+Entertainment,True,119,0,0,0,1057,417,366
+Exposed,True,94,0,0,0,1057,417,366
+Fun,True,84,0,0,0,1057,417,366
+T-shirt,True,121,0,0,0,1057,417,366
+Chair,True,45,0,9,0,1057,105,366
+Pants,True,36,0,9,0,1057,105,366
+Performing arts,True,39,0,9,0,1057,105,366
+Trousers,True,24,0,9,0,1057,105,366
+Engineering,False,10,0,2,2,1057,88,162
+Hairstyle,False,22,0,2,2,1057,88,162
+Material property,False,6,0,2,2,1057,88,162
+Rectangle,False,16,0,2,2,1057,88,162
+Terrestrial plant,False,6,0,2,2,1057,88,162
+Thumb,False,32,0,2,2,1057,88,162
+Shirt,True,57,0,3,2,1057,230,162
+White-collar worker,True,24,0,4,2,1057,254,162
+World,True,140,0,0,3,1057,417,282
+Building,True,21,0,3,3,1057,230,282
+City,True,26,0,3,3,1057,230,282
+Flag,True,46,0,3,3,1057,230,282
+Red,True,58,0,3,3,1057,230,282
+Sky,True,69,0,3,3,1057,230,282
+Tree,True,29,0,3,3,1057,230,282
+Coat,True,105,0,4,4,1057,254,244
+Microphone,True,136,0,4,4,1057,254,244
+Spokesperson,True,108,0,4,4,1057,254,244
+Happy,False,246,0,5,5,1057,408,408
+Poster,False,177,0,5,5,1057,408,408
+Publication,False,121,0,5,5,1057,408,408
+Cuisine,False,5,0,6,6,1057,6,6
+Recipe,False,6,0,6,6,1057,6,6
+Font,False,548,0,8,8,1057,548,548
+Leisure,True,116,1,0,0,848,417,366
+Blurred,True,182,1,1,1,848,292,292
+Crowd,True,167,1,1,1,848,292,292
+Fan,True,140,1,1,1,848,292,292
+Event,True,402,1,7,7,848,796,796
+Person,True,618,1,7,7,848,796,796
