@@ -105,6 +105,9 @@ def clusterize_tags(file_tags_stats,
     df_tags_to_clusters, best_sizes = kmeans_clusterize(df_tag_overlapping, "Clustering Size ", 
                                                          cluster_size_range, top_n_clusterings,
                                                          plot_filepath_template, weights=df_weights)
+    
+    # O primeiro elemento de best_sizes é o que teve o maior Silhouette Score (melhor clusterização)
+    best_clustering_size_auto = best_sizes[0]
     df_output_tags_stats = df_output_tags_stats.merge(df_tags_to_clusters, on='Class')
     
     # (5) CONTA AS QUANTIDADES DE POSTS DE CADA CLUSTER
@@ -137,6 +140,20 @@ def clusterize_tags(file_tags_stats,
     
     out_file = out_file.replace('.csv', '.xlsx')
     df_output_tags_stats.to_excel(f'{output_dir}/{out_file}', index=False)
+
+    # (8) AUTOMACAO: SALVA O MELHOR CLUSTER COMO REFINADO
+    # Cria a pasta refined se não existir
+    refined_dir = os.path.join(output_dir, 'refined')
+    os.makedirs(refined_dir, exist_ok=True)
+
+    # Prepara o DataFrame refinado
+    df_refined = df_output_tags_stats.copy()
+    best_col_name = f"Clustering Size {best_clustering_size_auto}"
+    df_refined['Clustering_refined'] = df_refined[best_col_name]
+    
+    print(f"- [AUTO] Melhor clusterização detectada: {best_col_name}. Salvando em 'refined'...")
+    # Salva com o mesmo nome base, mas na pasta refined
+    df_refined.to_excel(os.path.join(refined_dir, out_file), index=False)
 
 
 def overlap_metric1(tagA, tagB, df):

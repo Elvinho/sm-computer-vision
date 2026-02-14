@@ -5,7 +5,7 @@ import os
 from typing import List
 from typing import Sequence # Adicionado para o código antigo
 
-GOOGLE_APPLICATION_CREDENTIALS='./caminho que aponta para json gerado na aplicacao do goole'
+GOOGLE_APPLICATION_CREDENTIALS='./corded-cinema-474300-q5-e14a78efa9b3.json'
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = GOOGLE_APPLICATION_CREDENTIALS
 
 def process_images_batch(image_df: pd.DataFrame) -> pd.DataFrame:

@@ -67,13 +67,13 @@ print("Comecou tudo em ", superStartTime)
 list_dfs = {}
 
 METADATA = pd.read_excel(path_metadados)
-METADATA.loc[:,"ID Post"] = METADATA["ID Post"].astype(str)
+METADATA["ID Post"] = METADATA["ID Post"].astype(str)
 DIFERENCA = pd.read_excel(path_diferenca)
-DIFERENCA.loc[:,"ID"] = DIFERENCA["ID"].astype(str)
+DIFERENCA["ID"] = DIFERENCA["ID"].astype(str)
 
 data_filter = METADATA.loc[~METADATA['ID Post'].isin(DIFERENCA.loc[DIFERENCA['link funciona'] != 1]['ID'])]
 data_filter = data_filter.rename({"ID Post": 'ID'}, axis=1)
-data_filter.loc[:,"ID"] = data_filter["ID"].astype(str)
+data_filter["ID"] = data_filter["ID"].astype(str)
  
 
 # Cria pasta de saida caso não esteja criada
@@ -166,8 +166,8 @@ if (not os.path.isdir(path_results_statistical)):
 if (not os.path.isdir(path_results_qualitative)):
   os.mkdir(path_results_qualitative)
   
-# column_target = 'Curtidas Normalizadas'
-column_target = 'Curtidas'
+column_target = 'Curtidas Normalizadas'
+# column_target = 'Curtidas'
 
 # From the normalized data, we will store the values of the Mann-Whitney statistical test, 
 # according to the desired column, in the current case: 'Curtidas Normalizadas'.

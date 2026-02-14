@@ -31,12 +31,14 @@ for file in files_to_process:
     # Extrai o nome base do arquivo (ex: 'full', 'lula') para usar como nome da pasta de saída.
     output_folder_name = file.replace('5. Clusterings-', '').replace('.xlsx', '')
     copy_images_to_cluster_folders(
-        n=30,
+        n=0, # Ignorado quando use_cochran=True
         path_input_clustering=os.path.join(path_refined_clustering, file),
         path_input_normalized=os.path.join(path_normalized_posts, file.replace("5. Clusterings-", "2. Normalized-").replace(".xlsx", ".csv")),
         output_folder=output_folder_name,
         column_name=cluster_column_name,
         path_output=save_output,
+        use_cochran=True,
+        margin_error=0.05 # Margem de erro de 5% (padrão Cochran)
     )
 
 superEndTime = datetime.datetime.now()

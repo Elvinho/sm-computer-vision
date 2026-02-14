@@ -1,3 +1,24 @@
 *.jpg
 *.png
 *.mp4
+*.json
+
+*.xls
+*.xlsx
+*.csv
+
+# macOS
+.DS_Store
+
+# outputs gerados automaticamente
+outputs/
+
+# arquivos de dados
+*.csv
+*.xlsx
+*.json
+
+# imagens e vídeos
+*.jpg
+*.png
+*.mp4
